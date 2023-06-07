@@ -1,2 +1,22 @@
-# Image-Query-Search-Downloader
-To Download Images and Optional Latitude and Longitude Values (useful in the case of Location Images)
+# Query Search Image Downloader
+
+Query Search Image Downloader is a Python script that allows you to easily download images from a search query.
+
+## Features
+
+- Downloads a specified number of images for a search query
+- Saves downloaded images to a local directory
+- Customizable search parameters for filtering image results
+- Has extra code for Latitude and Longitude values of Locations
+
+## Requirements
+
+- Python 3.8
+- other libraries (install using `pip install -r requirements.txt`)
+
+## Usage
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/abhiveda/Query-Search-Image-Downloader.git
