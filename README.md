@@ -1,6 +1,7 @@
 # Query Search Image Downloader
 
-Query Search Image Downloader is a Python script that allows you to easily download images from a search query.
+Query Search Image Downloader is a Python script that allows you to easily download images from a search query. 
+The code is used to build a Monuments dataset as an example but can be used for other queries.
 
 ## Features
 
