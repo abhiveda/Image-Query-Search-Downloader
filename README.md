@@ -8,7 +8,7 @@
 - Downloads a specified number of images for a search query
 - Saves downloaded images to a local directory
 - Customizable search parameters for filtering image results
-- Has extra code for Latitude and Longitude values of locations
+- Has extra code for Latitude and Longitude values of locations(Please re-verify the coordinates mentioned as they might not always be completely accurate)
 
 ## Requirements
 
